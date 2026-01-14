@@ -1,1 +1,3 @@
-# cs-practice-1
+# cs-practice-2
+
+Figure tryingal
