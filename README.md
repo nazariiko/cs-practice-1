@@ -2,3 +2,4 @@
 
 Figure tryingal
 
+bug description: added BUUGGG in Nazarii.txt
